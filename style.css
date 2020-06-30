@@ -20,11 +20,12 @@ h1, h2 {
 
 #startStop {
     float: right;
-    background-color: crimson;
+    background-color: #32CD32;
     font-size: 20px;
     font-family: 'Roboto Condensed', sans-serif;
     border-radius: 10px;
-    border: 2px solid rgb(128, 12, 35);
+    border: 2px solid #1d771d;
+    outline: none;
     margin-top: 10px;
 }
 
